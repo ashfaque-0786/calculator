@@ -1,0 +1,46 @@
+html,body{
+    height:100%;
+    width:100%;
+    font-family: 'Roboto', sans-serif;
+}
+.button{
+    padding: 20px;
+    border: 3px solid black ;
+    margin: 0 3px;
+    border-radius: 40%;
+    cursor: pointer;
+    font-size: 20px;
+    width: 70px;
+    background-color: rgb(184, 189, 230);
+    /* background-color: rgb(184, 189, 230); */
+    
+}
+.button:hover{
+    
+    background-color: rgb(134, 146, 225);
+    
+}
+.row{
+    margin: 5px 0;
+    border-radius: 10px;
+}
+.input{
+    margin: 0;
+    border: 3px solid black ;
+    border-radius: 20px;
+    padding: 10px 28px ;  
+    font-size: 20px;
+    margin-bottom: 10px;
+
+
+}
+.top
+{
+    border: 2px solid black;
+    border-radius: 40px;
+    width: 30%;
+   margin-left: 35%;
+   margin-top: 40px;
+   padding-bottom: 20px;
+   background-color: white;
+}
